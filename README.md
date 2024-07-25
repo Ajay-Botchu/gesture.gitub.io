@@ -50,7 +50,7 @@ A fun and interactive racing game controlled by your hand gestures!
 - OpenCV
 - MediaPipe
 - Numpy
-- 
+  
 ### Contributions
 Feel free to fork the repository and submit pull requests for any improvements or new features!
 
